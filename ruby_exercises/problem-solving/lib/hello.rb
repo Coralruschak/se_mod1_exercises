@@ -1,9 +1,5 @@
 class Hello
-
-    def initialize
-    end
-    
-    def greeting(name)
+    def greet(name)
         "Hello, " + name + ", nice to meet you!"
     end
 end
